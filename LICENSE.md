@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Atom for PC | Atom for Windows script with Atom for PC | Atom for Windows professional Script: search-and-replace & Git-integration. Featuring search-and-replace
 
 
 
